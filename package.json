@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "bl": "^6.0.12"
+  },
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
